@@ -1,0 +1,10 @@
+sample,condition,width,height,angle_degrees,reference_characters,ocr_characters,substitutions,deletions,insertions,character_errors,cer_percent,image,raw_text,normalized_text
+A,original,1600,1000,0,566,566,0,0,0,0,0.0,images/A-original.png,raw/A-original.txt,normalized/A-original.txt
+A,low-resolution,400,250,0,566,527,14,42,3,59,10.424028268551236,images/A-low-resolution.png,raw/A-low-resolution.txt,normalized/A-low-resolution.txt
+A,skewed,1652,1084,3,566,566,0,0,0,0,0.0,images/A-skewed.png,raw/A-skewed.txt,normalized/A-skewed.txt
+B,original,1600,1000,0,585,585,0,0,0,0,0.0,images/B-original.png,raw/B-original.txt,normalized/B-original.txt
+B,low-resolution,400,250,0,585,556,26,30,1,57,9.743589743589743,images/B-low-resolution.png,raw/B-low-resolution.txt,normalized/B-low-resolution.txt
+B,skewed,1652,1084,3,585,585,0,0,0,0,0.0,images/B-skewed.png,raw/B-skewed.txt,normalized/B-skewed.txt
+C,original,1600,1000,0,586,586,0,0,0,0,0.0,images/C-original.png,raw/C-original.txt,normalized/C-original.txt
+C,low-resolution,400,250,0,586,542,17,46,2,65,11.092150170648464,images/C-low-resolution.png,raw/C-low-resolution.txt,normalized/C-low-resolution.txt
+C,skewed,1652,1084,3,586,586,0,0,0,0,0.0,images/C-skewed.png,raw/C-skewed.txt,normalized/C-skewed.txt

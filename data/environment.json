@@ -1,0 +1,11 @@
+{
+  "tesseract_version": "tesseract 5.3.4\n leptonica-1.82.0\n  libgif 5.2.1 : libjpeg 8d (libjpeg-turbo 2.1.5) : libpng 1.6.43 : libtiff 4.5.1 : zlib 1.3 : libwebp 1.3.2 : libopenjp2 2.5.0\n Found AVX2\n Found AVX\n Found FMA\n Found SSE4.1\n Found OpenMP 201511\n Found libarchive 3.7.2 zlib/1.3 liblzma/5.4.5 bz2lib/1.0.8 liblz4/1.9.4 libzstd/1.5.5\n Found libcurl/8.5.0 OpenSSL/3.0.13 zlib/1.3 brotli/1.1.0 zstd/1.5.5 libidn2/2.3.7 libpsl/0.21.2 (+libidn2/2.3.7) libssh/0.10.6/openssl/zlib nghttp2/1.59.0 librtmp/2.3 OpenLDAP/2.6.10\n",
+  "python": "3.12.15",
+  "Pillow": "12.3.0",
+  "platform": "Linux-6.17.0-1022-azure-x86_64-with-glibc2.39",
+  "language_model_sha256": "7d4322bd2a7749724879683fc3912cb542f19906c83bcc1a52132556427170b2",
+  "font_sha256": "ae7b7855e115a5966d8b1b3f80f254ccc117ec86f9965e202ee2940453837280",
+  "plan_sha256": "0ebf1c72bee193dc6d732cd45a922e76000c50098fcc260f6a188e65593b47ea",
+  "texts_sha256": "7783f6bf2b47f80e06660513f04f305d191ed14823bab29d9d1a1c21fc34af0e",
+  "packages": "fonts-dejavu-core\t2.37-8\ntesseract-ocr\t5.3.4-1build5\ntesseract-ocr-eng\t1:4.1.0-2\n"
+}
